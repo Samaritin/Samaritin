@@ -32,7 +32,19 @@ I am passionate about cybersecurity and committed to strengthening network defen
 
 ## 🏅 Certifications
 <a href="https://www.comptia.org/certifications/security" target="_blank">
-  <img src="https://img.shields.io/badge/Security+-0077B5?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+">
+  <img src="https://img.shields.io/badge/Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+">
+</a>
+
+<a href="https://tcm-sec.com/" target="_blank">
+  <img src="https://img.shields.io/badge/TCM_Security-800080?style=for-the-badge&logo=tcm&logoColor=white" alt="TCM Security">
+</a>
+
+<a href="https://tryhackme.com/" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-181717?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+</a>
+
+<a href="https://www.myosint.com/" target="_blank">
+  <img src="https://img.shields.io/badge/MyOSINT-28A745?style=for-the-badge&logo=myosint&logoColor=white" alt="MyOSINT">
 </a>
 
 ---
@@ -41,18 +53,18 @@ I am passionate about cybersecurity and committed to strengthening network defen
 
 | **Lab Title**                                      | **Skills Used**                                                                         | **Link**                                                   |
 |----------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------|
-| **Networking Overview**                   | Network configuration, IP analysis, connectivity testing, NAT understanding.            | <a href="#Lab02-Networking-Overview">Lab 02 - Networking Overview</a> |
-| **System Hardening**                      | Linux system hardening, firewall configuration, SSH, FTP management.                    | <a href="#Lab05-System-Hardening">Lab 05 - System Hardening</a> |
-| **OSINT**                                 | Open Source Intelligence gathering, Google hacking, Shodan analysis.                    | <a href="#Lab06-OSINT">Lab 06 - OSINT</a> |
-| **Linux Admin**                           | Installing and managing Linux services (Figlet, Lighttpd), firewall rules.              | <a href="#Lab08-Linux-Admin">Lab 08 - Linux Admin</a> |
-| **Admin 2.0**                               | Network monitoring with Wireshark, MySQL, Lighttpd, and PHP setup.                      | <a href="#Lab09-Admin2">Lab 09 - Admin 2</a> |
-| **Wireless Frame Analysis**               | 802.11 wireless packet analysis, encryption detection, channel frequency analysis.      | <a href="#Lab12-Wireless-Frame-Analysis">Lab 12 - Wireless Frame Analysis</a> |
-| **Steganography Lab**                     | Steganography techniques, message hiding in images using S-Tools.                       | <a href="#CYB338-Steganography-Lab">CYB338 - Steganography Lab</a> |
-| **AWS Honeypot with Amazon Services**              | Cloud security, honeypot deployment, AWS configuration, network traffic monitoring.      | <a href="#AWS-Honeypot-Lab">AWS Honeypot Lab</a> |
-| **Malware Network Monitoring**                | Malware network traffic analysis, packet capture analysis using Wireshark.              | <a href="#CYB439-Network-Monitoring-Lab">CYB439 - Network Monitoring Lab</a> |
-| **Setting up Network Adapter with airmon-ng**      | Kali Linux setup, network adapter configuration, monitor mode activation.               | <a href="#Setting-Up-Network-Adapter">Setting Up Network Adapter</a> |
-| **VLSM Assignment**                                | Subnetting and IP address allocation using VLSM for multiple departments.               | <a href="#VLSM-Assignment">VLSM Assignment</a> |
-| **Authentication Protocols Lab**          | Generating and comparing hash values (SHA1, MD5), verifying file integrity.             | <a href="#CYB338-Authentication-Protocols-Lab">CYB338 - Authentication Protocols Lab</a> |
+| **Networking Overview**                   | Network configuration, IP analysis, connectivity testing, NAT understanding.            | <a href="#Lab02-Networking-Overview"> Networking Overview</a> |
+| **System Hardening**                      | Linux system hardening, firewall configuration, SSH, FTP management.                    | <a href="#Lab05-System-Hardening">System Hardening</a> |
+| **OSINT**                                 | Open Source Intelligence gathering, Google hacking, Shodan analysis.                    | <a href="#Lab06-OSINT">OSINT</a> |
+| **Linux Admin**                           | Installing and managing Linux services (Figlet, Lighttpd), firewall rules.              | <a href="#Lab08-Linux-Admin">Linux Admin</a> |
+| **Admin 2.0**                               | Network monitoring with Wireshark, MySQL, Lighttpd, and PHP setup.                      | <a href="#Lab09-Admin2">Admin 2.0</a> |
+| **Wireless Frame Analysis**               | 802.11 wireless packet analysis, encryption detection, channel frequency analysis.      | <a href="#Lab12-Wireless-Frame-Analysis">Wireless Frame Analysis</a> |
+| **Steganography Lab**                     | Steganography techniques, message hiding in images using S-Tools.                       | <a href="#CYB338-Steganography-Lab">Steganography</a> |
+| **AWS Honeypot with Amazon Services**              | Cloud security, honeypot deployment, AWS configuration, network traffic monitoring.      | <a href="#AWS-Honeypot-Lab">AWS Honeypot</a> |
+| **Malware Network Monitoring**                | Malware network traffic analysis, packet capture analysis using Wireshark.              | <a href="#CYB439-Network-Monitoring-Lab">Malware Network Monitoring</a> |
+| **Setting up Network Adapter with airmon-ng**      | Kali Linux setup, network adapter configuration, monitor mode activation.               | <a href="#Setting-Up-Network-Adapter">Network Adapter</a> |
+| **Variable Length Subnet Mask (VLSM) Assignment**                                | Subnetting and IP address allocation using VLSM for multiple departments.               | <a href="#VLSM-Assignment">VLSM Assignment</a> |
+| **Authentication Protocols Lab**          | Generating and comparing hash values (SHA1, MD5), verifying file integrity.             | <a href="#CYB338-Authentication-Protocols-Lab">Authentication Protocols</a> |
 
 ---
 
@@ -60,5 +72,5 @@ I am passionate about cybersecurity and committed to strengthening network defen
 
 | **Project Title**                                  | **Skills Used**                                                                         | **Link**                                                |
 |----------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------|
-| **Windows Active Directory Server Configuration**    | Demonstrated VM network configuration, IP address management, and DNS setup.            | <a href="#Screenshot-Project-1">Screenshot Project 1</a> |
-| **Azure Cloud Security Architecture**| Visualized cloud security architecture using Azure tools like **Defender** and **Sentinel**. | <a href="#Screenshot-Project-2">Screenshot Project 2</a>    |
+| **Windows Active Directory Server Configuration**    | Demonstrated VM network configuration, IP address management, and DNS setup.            | <a href="#Screenshot-Project-1">Active Directory Screenshot</a> |
+| **Azure Cloud Security Architecture**| Visualized cloud security architecture using Azure tools like **Defender** and **Sentinel**. | <a href="#Screenshot-Project-2">Azure Cloud Screenshot</a>    |
