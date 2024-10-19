@@ -62,7 +62,7 @@ I am passionate about cybersecurity and committed to strengthening network defen
 | **Steganography Lab**                     | Steganography techniques, message hiding in images using S-Tools.                       | <a href="https://github.com/Samaritin/Steganography/blob/main">Steganography</a> |
 | **AWS Honeypot with Amazon Services**              | Cloud security, honeypot deployment, AWS configuration, network traffic monitoring.      | <a href="https://github.com/Samaritin/AWS-Honeypot/blob/main">AWS Honeypot</a> |
 | **Malware Network Monitoring**                | Malware network traffic analysis, packet capture analysis using Wireshark.              | <a href="#CYB439-Network-Monitoring-Lab">Malware Network Monitoring</a> |
-| **WEP/WPA Cracking**      | Identifying MAC addresses and SSIDS for WEP/WPA password cracking and unstanding network security flaws.               | <a href="#Setting-Up-Network-Adapter">Network Adapter</a> |
+| **WEP/WPA Cracking**      | Identifying MAC addresses and SSIDS for WEP/WPA password cracking and unstanding network security flaws.               | <a href="https://github.com/Samaritin/WEP-WPA-Cracking/blob/main">WEP/WPA Cracking</a> |
 | **Variable Length Subnet Mask (VLSM) Assignment**                                | Subnetting and IP address allocation using VLSM for multiple departments.               | <a href="https://github.com/Samaritin/VSLM-Assignment/blob/main/">VLSM Assignment</a> |
 | **Authentication Protocols Lab**          | Generating and comparing hash values (SHA1, MD5), verifying file integrity.             | <a href="#CYB338-Authentication-Protocols-Lab">Authentication Protocols</a> |
 
