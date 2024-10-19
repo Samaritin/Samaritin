@@ -53,7 +53,7 @@ I am passionate about cybersecurity and committed to strengthening network defen
 
 | **Lab Title**                                      | **Skills Used**                                                                         | **Link**                                                   |
 |----------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------|
-| **Networking Overview**                   | Network configuration, IP analysis, connectivity testing, NAT understanding.            | <a href="#Lab02-Networking-Overview"> Networking Overview</a> |
+| **Networking Overview**                   | Network configuration, IP analysis, connectivity testing, NAT understanding.            | <a href="https://github.com/Samaritin/Networking-Overview">Networking Overview</a> |
 | **System Hardening**                      | Linux system hardening, firewall configuration, SSH, FTP management.                    | <a href="#Lab05-System-Hardening">System Hardening</a> |
 | **OSINT**                                 | Open Source Intelligence gathering, Google hacking, Shodan analysis.                    | <a href="#Lab06-OSINT">OSINT</a> |
 | **Linux Admin**                           | Installing and managing Linux services (Figlet, Lighttpd), firewall rules.              | <a href="#Lab08-Linux-Admin">Linux Admin</a> |
