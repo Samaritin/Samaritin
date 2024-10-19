@@ -60,7 +60,7 @@ I am passionate about cybersecurity and committed to strengthening network defen
 | **Admin 2.0**                               | Network monitoring with Wireshark, MySQL, Lighttpd, and PHP setup.                      | <a href="#Lab09-Admin2">Admin 2.0</a> |
 | **Wireless Frame Analysis**               | 802.11 wireless packet analysis, encryption detection, channel frequency analysis.      | <a href="#Lab12-Wireless-Frame-Analysis">Wireless Frame Analysis</a> |
 | **Steganography Lab**                     | Steganography techniques, message hiding in images using S-Tools.                       | <a href="#CYB338-Steganography-Lab">Steganography</a> |
-| **AWS Honeypot with Amazon Services**              | Cloud security, honeypot deployment, AWS configuration, network traffic monitoring.      | <a href="#AWS-Honeypot-Lab">AWS Honeypot</a> |
+| **AWS Honeypot with Amazon Services**              | Cloud security, honeypot deployment, AWS configuration, network traffic monitoring.      | <a href="https://github.com/Samaritin/AWS-Honeypot/blob/main">AWS Honeypot</a> |
 | **Malware Network Monitoring**                | Malware network traffic analysis, packet capture analysis using Wireshark.              | <a href="#CYB439-Network-Monitoring-Lab">Malware Network Monitoring</a> |
 | **Setting up a Network Adapter with airmon-ng**      | Kali Linux setup, network adapter configuration, monitor mode activation.               | <a href="#Setting-Up-Network-Adapter">Network Adapter</a> |
 | **Variable Length Subnet Mask (VLSM) Assignment**                                | Subnetting and IP address allocation using VLSM for multiple departments.               | <a href="https://github.com/Samaritin/VSLM-Assignment/blob/main/">VLSM Assignment</a> |
