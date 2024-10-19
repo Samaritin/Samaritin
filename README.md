@@ -62,7 +62,7 @@ I am passionate about cybersecurity and committed to strengthening network defen
 | **Steganography Lab**                     | Steganography techniques, message hiding in images using S-Tools.                       | <a href="#CYB338-Steganography-Lab">Steganography</a> |
 | **AWS Honeypot with Amazon Services**              | Cloud security, honeypot deployment, AWS configuration, network traffic monitoring.      | <a href="#AWS-Honeypot-Lab">AWS Honeypot</a> |
 | **Malware Network Monitoring**                | Malware network traffic analysis, packet capture analysis using Wireshark.              | <a href="#CYB439-Network-Monitoring-Lab">Malware Network Monitoring</a> |
-| **Setting up Network Adapter with airmon-ng**      | Kali Linux setup, network adapter configuration, monitor mode activation.               | <a href="#Setting-Up-Network-Adapter">Network Adapter</a> |
+| **Setting up a Network Adapter with airmon-ng**      | Kali Linux setup, network adapter configuration, monitor mode activation.               | <a href="#Setting-Up-Network-Adapter">Network Adapter</a> |
 | **Variable Length Subnet Mask (VLSM) Assignment**                                | Subnetting and IP address allocation using VLSM for multiple departments.               | <a href="#VLSM-Assignment">VLSM Assignment</a> |
 | **Authentication Protocols Lab**          | Generating and comparing hash values (SHA1, MD5), verifying file integrity.             | <a href="#CYB338-Authentication-Protocols-Lab">Authentication Protocols</a> |
 
