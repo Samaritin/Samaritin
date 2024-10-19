@@ -55,7 +55,7 @@ I am passionate about cybersecurity and committed to strengthening network defen
 |----------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------|
 | **Networking Overview**                   | Network configuration, IP analysis, connectivity testing, NAT understanding.            | <a href="https://github.com/Samaritin/Networking-Overview">Networking Overview</a> |
 | **System Hardening**                      | Linux system hardening, firewall configuration, SSH, FTP management.                    | <a href="https://github.com/Samaritin/System-Hardening/blob/main/">System Hardening</a> |
-| **OSINT**                                 | Open Source Intelligence gathering, Google hacking, Shodan analysis.                    | <a href="#Lab06-OSINT">OSINT</a> |
+| **OSINT**                                 | Open Source Intelligence gathering, Google hacking, Shodan analysis.                    | <a href="https://github.com/Samaritin/OSINT/blob/main/">OSINT</a> |
 | **Linux Admin**                           | Installing and managing Linux services (Figlet, Lighttpd), firewall rules.              | <a href="#Lab08-Linux-Admin">Linux Admin</a> |
 | **Admin 2.0**                               | Network monitoring with Wireshark, MySQL, Lighttpd, and PHP setup.                      | <a href="#Lab09-Admin2">Admin 2.0</a> |
 | **Wireless Frame Analysis**               | 802.11 wireless packet analysis, encryption detection, channel frequency analysis.      | <a href="#Lab12-Wireless-Frame-Analysis">Wireless Frame Analysis</a> |
