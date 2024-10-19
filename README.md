@@ -57,7 +57,7 @@ I am passionate about cybersecurity and committed to strengthening network defen
 | **System Hardening**                      | Linux system hardening, firewall configuration, SSH, FTP management.                    | <a href="https://github.com/Samaritin/System-Hardening/blob/main/">System Hardening</a> |
 | **OSINT**                                 | Open Source Intelligence gathering, Google hacking, Shodan analysis.                    | <a href="https://github.com/Samaritin/OSINT/blob/main/">OSINT</a> |
 | **Linux Admin**                           | Installing and managing Linux services (Figlet, Lighttpd), firewall rules.              | <a href="https://github.com/Samaritin/Linux-Admin/blob/main/">Linux Admin</a> |
-| **Admin 2.0**                               | Network monitoring with Wireshark, MySQL, Lighttpd, and PHP setup.                      | <a href="#Lab09-Admin2">Admin 2.0</a> |
+| **Admin 2.0**                               | Network monitoring with Wireshark, MySQL, Lighttpd, and PHP setup.                      | <a href="https://github.com/Samaritin/Admin-2.0/blob/main/">Admin 2.0</a> |
 | **Wireless Frame Analysis**               | 802.11 wireless packet analysis, encryption detection, channel frequency analysis.      | <a href="#Lab12-Wireless-Frame-Analysis">Wireless Frame Analysis</a> |
 | **Steganography Lab**                     | Steganography techniques, message hiding in images using S-Tools.                       | <a href="#CYB338-Steganography-Lab">Steganography</a> |
 | **AWS Honeypot with Amazon Services**              | Cloud security, honeypot deployment, AWS configuration, network traffic monitoring.      | <a href="https://github.com/Samaritin/AWS-Honeypot/blob/main">AWS Honeypot</a> |
