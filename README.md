@@ -72,5 +72,5 @@ I am passionate about cybersecurity and committed to strengthening network defen
 
 | **Project Title**                                  | **Skills Used**                                                                         | **Link**                                                |
 |----------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------|
-| **Windows Active Directory Server Configuration**    | Demonstrated VM network configuration, IP address management, and DNS setup.            | <a href="#Screenshot-Project-1">Active Directory Screenshot</a> |
+| **Windows Active Directory Server Configuration**    | Demonstrated VM network configuration, IP address management, and DNS setup.            | <a href="https://github.com/Samaritin/Active-Directory-Screenshot/blob/main">Active Directory Screenshot</a> |
 | **Azure Cloud Security Architecture**| Visualized cloud security architecture using Azure tools like **Defender** and **Sentinel**. | <a href="#Screenshot-Project-2">Azure Cloud Screenshot</a>    |
