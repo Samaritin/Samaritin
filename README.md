@@ -49,7 +49,7 @@ I am passionate about cybersecurity and committed to strengthening network defen
 
 ---
 
-## ## 💻 Labs and Projects Overview
+ ## 💻 Labs and Projects Overview
 
 | **Lab Title**                                      | **Skills Used**                                                                         | **Link**                                                   |
 |----------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------|
